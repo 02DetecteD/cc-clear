@@ -35,7 +35,7 @@ class GeneralController extends Controller
     }
 
     /**
-     * Поиск по мастерам
+     * Поиск услуг
      * @param SearchServices $request
      * @return \Illuminate\Http\JsonResponse
      */
